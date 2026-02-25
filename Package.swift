@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MEAPMInsight",
-            url: "https://github.com/ManageEngine/MEAPMInsight/releases/download/v1.0.0/MEAPMInsight.xcframework.zip",
-            checksum: "9c3a531e589334ac0bfde160ea7e2e600841e7560809d39ab0976ac3f169e374"
+            url: "https://github.com/ManageEngine/MEAPMInsight/releases/download/v1.0.1/MEAPMInsight.xcframework.zip",
+            checksum: "17a6f8690b682627639a42391912afb70e1d65fb6b4e0a417f26035403f2ed17"
         ),
     ]
 )
